@@ -1,0 +1,20 @@
+body{
+    background-color: aliceblue;
+}
+
+h1{
+    font-size: 30px;
+    color: salmon;
+}
+h2 {
+    font-size: 40px;
+    color: aquamarine;
+}
+
+.big{
+    font-size: 100px;
+}
+
+.uppercase{
+    text-transform: uppercase;
+}
